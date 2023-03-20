@@ -1,0 +1,8 @@
+D:\CodeCoverageTesting\MyFirstsampledotnetproj\Elevator\bin\Release\Elevator.exe.config
+D:\CodeCoverageTesting\MyFirstsampledotnetproj\Elevator\bin\Release\Elevator.exe
+D:\CodeCoverageTesting\MyFirstsampledotnetproj\Elevator\bin\Release\Elevator.pdb
+D:\CodeCoverageTesting\MyFirstsampledotnetproj\Elevator\obj\Release\Elevator.csproj.AssemblyReference.cache
+D:\CodeCoverageTesting\MyFirstsampledotnetproj\Elevator\obj\Release\Elevator.csproj.SuggestedBindingRedirects.cache
+D:\CodeCoverageTesting\MyFirstsampledotnetproj\Elevator\obj\Release\Elevator.csproj.CoreCompileInputs.cache
+D:\CodeCoverageTesting\MyFirstsampledotnetproj\Elevator\obj\Release\Elevator.exe
+D:\CodeCoverageTesting\MyFirstsampledotnetproj\Elevator\obj\Release\Elevator.pdb
